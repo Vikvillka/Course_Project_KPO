@@ -1,0 +1,31 @@
+﻿Сборка начата 19.12.2023 16:46:23.
+Уровень детализации журнала: Normal.     1>Проект "D:\курсач_3_сем\BVA-2023\BVA_Lib\BVA_Lib.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\BVA_Lib.tlog\BVA_Lib.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\BVA_Lib.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"pch.h" /Fp"Debug\BVA_Lib.pch" /Fo"Debug\\" /Fd"D:\курсач_3_сем\BVA-2023\Debug\BVA_Lib.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Debug\BVA_Lib.pch" /Fo"Debug\\" /Fd"D:\курсач_3_сем\BVA-2023\Debug\BVA_Lib.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt BVA_Lib.cpp
+         BVA_Lib.cpp
+     1>D:\курсач_3_сем\BVA-2023\BVA_Lib\BVA_Lib.cpp(11,16): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"D:\курсач_3_сем\BVA-2023\Debug\BVA_Lib.lib" /NOLOGO /MACHINE:X86 Debug\BVA_Lib.obj
+         Debug\pch.obj
+         BVA_Lib.vcxproj -> D:\курсач_3_сем\BVA-2023\Debug\BVA_Lib.lib
+       FinalizeBuildStatus:
+         Файл "Debug\BVA_Lib.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\BVA_Lib.tlog\BVA_Lib.lastbuildstate".
+     1>Сборка проекта "D:\курсач_3_сем\BVA-2023\BVA_Lib\BVA_Lib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "D:\курсач_3_сем\BVA-2023\BVA_Lib\BVA_Lib.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\курсач_3_сем\BVA-2023\BVA_Lib\BVA_Lib.cpp(11,16): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.96

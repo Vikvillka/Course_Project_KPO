@@ -1,5 +1,6 @@
 # Course_Project_KPO
 BVA-2023, 33371
+
 To complete the course project, the following tasks were set:
 - development of a programming language specification;
 - development of a translator structure;
@@ -9,4 +10,3 @@ To complete the course project, the following tasks were set:
 - expression transformation;
 - assembly language code generation;
 - translator testing.
-- 

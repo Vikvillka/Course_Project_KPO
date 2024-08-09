@@ -10,3 +10,4 @@ To complete the course project, the following tasks were set:
 - expression transformation;
 - assembly language code generation;
 - translator testing.
+P. S. За основу своего курсача брать не советую, тот еще высер
